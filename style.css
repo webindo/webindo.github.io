@@ -31,24 +31,24 @@ section {
 
 .jumbotron {
   padding-top: 3rem;
-  animation: gradiasiwarna 10s infinite;
+  animation: gradiasiwarna 7s infinite;
 }
 
 @keyframes gradiasiwarna {
   0% {
-    background-color: #9affce;
+    background-color: #a4ffd3;
   }
   25% {
-    background-color: #61ffb2;
+    background-color: #71ffba;
   }
   50% {
-    background-color: #2cff99;
+    background-color: #53ffac;
   }
   75% {
-    background-color: #61ffb2;
+    background-color: #71ffba;
   }
   100% {
-    background-color: #9affce;
+    background-color: #a4ffd3;
   }
 }
 
