@@ -38,6 +38,7 @@ section {
 .jumbotron {
   padding-top: 3rem;
   animation: gradiasiwarna 7s infinite;
+  z-index: 1;
 }
 
 @keyframes gradiasiwarna {
