@@ -13,6 +13,10 @@ section {
   padding-top: 5rem;
 }
 
+.isian {
+  position: relative;
+}
+
 .np1 {
   overflow: hidden;
   margin: 23px;
